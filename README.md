@@ -9,3 +9,5 @@ pip3 install pyotp
 and for windows:
 pip install selenium
 pip install pyotp
+
+<a href="https://youtu.be/i-_OA9ofVM0">https://youtu.be/i-_OA9ofVM0</a>
